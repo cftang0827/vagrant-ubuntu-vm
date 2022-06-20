@@ -21,3 +21,7 @@ vagrant destroy
 ```sh
 vagrant ssh
 ```
+
+
+### Collaborate with VScode SSH feature
+- https://code.visualstudio.com/docs/remote/ssh
